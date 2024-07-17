@@ -14,8 +14,9 @@ fecha-hora actual)).
 - Modifique el UTC por defecto.Desde UTC-3 a UTC-2.
 ## Parte 4: Creación de registros.
 - Para cada tabla crea 8 registros.
-## Parte 5: Justifique cada tipo de dato utilizado. ¿Es el óptimo en cada caso?
-## Parte 6: Creen una nueva tabla llamada Contactos (id_contacto, id_usuario, numero de telefono,
-correo electronico).
-## Parte 7: Modifique la columna teléfono de contacto, para crear un vínculo entre la tabla Usuarios y la
-tabla Contactos.
+## Parte 5: Justificar
+- Justifique cada tipo de dato utilizado. ¿Es el óptimo en cada caso?
+## Parte 6: Nueva tabla
+- Creen una nueva tabla llamada Contactos (id_contacto, id_usuario, numero de telefono, correo electronico).
+## Parte 7: 
+- Modifique la columna teléfono de contacto, para crear un vínculo entre la tabla Usuarios y la tabla Contactos.
