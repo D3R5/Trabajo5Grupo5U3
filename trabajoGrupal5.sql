@@ -13,6 +13,8 @@ CREATE USER 'grupo5'@'localhost' IDENTIFIED BY 'admin123';
 GRANT ALL PRIVILEGES ON tg5grupo5.* TO 'grupo5'@'localhost';
 FLUSH PRIVILEGES;
 
+USE tg5grupo5;
+
 -- Parte 2: Crear dos tablas.
 /* La primera almacena a los usuarios de la aplicación (id_usuario, nombre, apellido,
 contraseña, zona horaria (por defecto UTC-3), género y teléfono de contacto). */
